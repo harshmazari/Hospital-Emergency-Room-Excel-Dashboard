@@ -1,7 +1,7 @@
-# Hospital_Emergency_Room_Dashboard
+# Hospital Emergency Room Dashboard
 I have created dashboard to find out meaningful insights on Hospital data
 I have created dashboard to find out meaningful insights on Hospital Emergency Room data
 <br>
 
-<img src="https://github.com/SatishDhawale/Hospital_Emergency_Room_Dashboard/blob/4ed886d2946467c75855e21291b18d07011c7189/Hospital%20Dashboard%20Final%20.jpg" alt="Image Description" width="600">
+https://github.com/harshmazari/Hospital-Emergency-Room-Excel-Dashboard/blob/main/Final%20Dashboard%20of%20Hospital%20Emergency%20Room%20.png
 <br><br>
